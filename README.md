@@ -43,13 +43,6 @@
 | **eCommerce REST API** | API REST de e-commerce com autenticação JWT e persistência com Spring Data JPA. | Java, Spring Boot, Spring Security, JPA |
 | **Sistema de Gerenciamento de Tarefas** | API REST para criar, editar e excluir tarefas. | C#, .NET, SQL Server |
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emanuel-Neves08&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Neves08&layout=compact&hide_border=true" alt="Linguagens mais usadas">
-</p>
-
 ## 📫 Contato
 
 Vamos conversar? Me chama no [LinkedIn](https://linkedin.com/in/emanuelevangelista-santos-neves-30084522a) ou por e-mail: **nemanuel147@gmail.com**
