@@ -17,7 +17,7 @@
 - 💻 Foco em **backend com Java e Spring Boot**, e também **C# / .NET**
 - 🔐 Construo APIs REST com autenticação **JWT** e **Spring Security**
 - 🤝 Participei do **Desafio GC 2026** (Geração Caldeira), onde desenvolvi em equipe um MVP para um desafio real de mercado
-- 🌱 Estudando: IA & Dados, arquitetura de software e boas práticas de código
+- 🌱 Estudando: Java e Spring Boot a fundo, além de arquitetura de software e boas práticas de código
 - 🔎 Buscando minha primeira oportunidade em um time de desenvolvimento
 
 ## 🛠️ Tecnologias
